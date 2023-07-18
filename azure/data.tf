@@ -7,7 +7,7 @@ terraform {
       version = "=3.0.0"
     }
   }
-  required_version = ">= 1.4.6"
+  required_version = ">= 1.3.2"
 }
 
 # Configure the Microsoft Azure Provider
